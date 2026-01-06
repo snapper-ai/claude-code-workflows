@@ -26,6 +26,10 @@ Claude Code works best when:
 
 This repo is about **encoding those habits into the tooling itself**.
 
+## Attribution
+
+> **Note:** These agents and commands are inspired by workflows shared by Boris Cherny (creator of Claude Code). They're designed as starting templates — customize them for your own projects.
+
 ## Status
 
 This repository will continue to grow over time as new patterns, agents, and workflows are added.
