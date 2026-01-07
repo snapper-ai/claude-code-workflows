@@ -18,7 +18,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "npm run format || true"
+            "command": "cd demo-app && npm run format || true"
           }
         ]
       }
