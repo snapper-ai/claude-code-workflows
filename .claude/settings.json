@@ -18,7 +18,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "Write|Edit"
+            "command": "npm run format || true"
           }
         ]
       }
