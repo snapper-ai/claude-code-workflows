@@ -12,13 +12,13 @@
     ]
   },
   "hooks": {
-    "PreToolUse": [
+    "PostToolUse": [
       {
         "matcher": "Write|Edit",
         "hooks": [
           {
             "type": "command",
-            "command": "npm run format || true"
+            "command": "Write|Edit"
           }
         ]
       }
