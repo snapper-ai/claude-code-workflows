@@ -9,7 +9,6 @@ This repo focuses on **practical, real-world setups**, inspired by how Claude Co
 - ✅ Example **subagents** (verification, simplification, validation, etc.)
 - ✅ Reusable **slash commands** for common inner-loop workflows
 - ✅ Safe permission setups and hooks
-- ✅ A minimal **demo app** for testing workflows
 - ✅ Workflow examples you can fork and adapt
 
 Everything here is meant to be:
