@@ -55,5 +55,7 @@ This repo is about **encoding those habits into the tooling itself**.
 
 This is a **living repository** — we'll continue adding best practices, optimal configurations, and new subagents and slash commands as we discover what works well. Star and watch this repo to stay updated.
 
-If you want updates when new workflows, repos, and resources drop:
-👉 https://snapperai.io
+**Stay connected:**
+- 📬 Newsletter: https://snapperai.io
+- 🎥 YouTube: https://www.youtube.com/@snapperAI — Subscribe for tutorials and walkthroughs
+- 𝕏 Twitter/X: https://x.com/SnapperAI — Follow for updates and tips
