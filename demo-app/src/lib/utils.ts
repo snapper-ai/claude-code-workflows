@@ -1,5 +1,3 @@
-// Example utilities - intentionally verbose for demo purposes
-
 export function formatCurrency(
   amount: number,
   currency: string = 'USD'

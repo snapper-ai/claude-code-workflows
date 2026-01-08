@@ -10,18 +10,5 @@
       "Bash(git diff)",
       "Bash(git log)"
     ]
-  },
-  "hooks": {
-    "PostToolUse": [
-      {
-        "matcher": "Write|Edit",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "cd demo-app && npm run format || true"
-          }
-        ]
-      }
-    ]
   }
 }
